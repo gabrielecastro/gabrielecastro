@@ -1,5 +1,17 @@
 ### Olá! Me chamo Gabriele Castro e sou estudante de Desenvolvimento Web na Trybe!
 
+##
+
+<p align="left">
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Bootstrap, Redux, Jest, RTL</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Trello, Git e GitHub.</strong>
+</p>
+
+<br>
+
 <div align="center" style="display: inline">
   <a href="https://github.com/gabrielecastro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielecastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
