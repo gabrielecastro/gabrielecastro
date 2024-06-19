@@ -2,7 +2,7 @@
 ##### Desenvolvedora Web.
 ##### Meu forte é o Frontend
 
-Focando meus estudos em Python.
+No momento focando meus estudos em Python.
 
 <br>
 
