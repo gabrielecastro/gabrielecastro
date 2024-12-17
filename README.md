@@ -2,8 +2,6 @@
 ##### Desenvolvedora Web.
 ##### Meu forte é o Frontend
 
-No momento focando meus estudos em Python.
-
 <br>
 
 <div align="start" style="display: inline">
