@@ -2,6 +2,8 @@
 ##### Desenvolvedora Web.
 ##### Meu forte é o Frontend
 
+###### Atualmente focando meus estudos em Ruby
+
 <br>
 
 <div align="start" style="display: inline">
